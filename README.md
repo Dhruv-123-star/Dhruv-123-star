@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming.
 - 🌱 I’m currently learning Javascript Coding.
 - 💞️ I’m looking to collaborate on Games.
-- 📫 How to reach me?? my email id:- manishlatyan@gmail.com .
+- 📫 How to reach me?? my email id:- dhruvlatyan@gmail.com .
 
 <!---
 Dhruv-123-star/Dhruv-123-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
